@@ -1,5 +1,7 @@
 # BaiDu_url_collection
 collection url from www.baidu.com
+采集百度url
+学习中，目前暂时不能爬取 inurl:语法
 
 CB.py为主程序，爬取url只需要运行它就行了
 
